@@ -5,5 +5,5 @@
 #### run project dengan expo start
 
 ### account 
-#### user@gmail.com 
-#### user123
+#### -email : user@gmail.com 
+#### -password : user123
